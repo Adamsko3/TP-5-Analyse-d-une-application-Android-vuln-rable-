@@ -1,0 +1,9 @@
+jadx-1.4.7/
+injured_out/
+*.apk
+*.zip
+*.xz
+__pycache__/
+*.pyc
+.venv/
+venv/
